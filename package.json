@@ -1,0 +1,22 @@
+{
+  "name": "express-exam-skeleton",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js",
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@prisma/client": "^5.8.1",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "prisma": "^5.8.1",
+    "supertest": "^6.3.4"
+  }
+}
