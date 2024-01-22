@@ -1,5 +1,15 @@
 # Exam Code Challenge
 
+## Github Repository Instructions
+- **DO NOT SUBMIT THE EXAM BEFORE COMPLETING THIS CHALLENGE**
+    - You must complete this challenge then submit the exam. We will not look at any code that is committed after you have submitted the exam.
+- Make a new repository
+- Clone this repo and make it private. 
+- Make sure you invite Wren, Jose, and Rafael
+    - Jose's Github username: joselevelsup
+    - Wrens's Github username: wrenpurcell
+    - Rafael's Github username: imkewlhuh
+
 ## Instructions
 You are building a simple web application, and you need to implement user authentication using Express.js. Create the necessary routes and middleware functions for user registration, login, and authentication.
 
