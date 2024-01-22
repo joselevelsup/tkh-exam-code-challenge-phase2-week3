@@ -1,4 +1,4 @@
-# Exam Code and Verbal Portion
+# Exam Code Challenge
 
 ## Instructions
 You are building a simple web application, and you need to implement user authentication using Express.js. Create the necessary routes and middleware functions for user registration, login, and authentication.

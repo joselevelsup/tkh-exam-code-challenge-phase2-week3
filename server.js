@@ -10,9 +10,10 @@ const app = express();
 const db = [];
 
 //This is the protected middleware to make sure that non logged in users can't access logged in routes
-//TODO: Create a middleware that checks the headers of the request for the key token.
+//TODO: Create a middleware that checks the headers of the request for the key: token.
 //If it exists, pass the next function
 //If it doesn't exist, send a response back to the client with a status code of unauthorized
+//The actual token can just be a random string. For example: "token123"
 const protectedMiddleware = function (req, res, next) {
   next();
 };
