@@ -5,7 +5,10 @@
     - You must complete this challenge then submit the exam. We will not look at any code that is committed after you have submitted the exam.
 - Make a new repository
 - Clone this repo and make it private. 
-- Make sure you invite Wren, Jose, and Rafael
+- West Coast Fellows Only: Make sure to invite Tea and Alexis
+    - Tea's Github username: ControlAltTea
+    - Alexis' Github username: Alex-is-Gonzalez
+- East Coast Fellows Only: Make sure you invite Wren, Jose, and Rafael
     - Jose's Github username: joselevelsup
     - Wrens's Github username: wrenpurcell
     - Rafael's Github username: imkewlhuh
