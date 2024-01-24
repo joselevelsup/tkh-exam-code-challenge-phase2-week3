@@ -3,8 +3,13 @@
 ## Github Repository Instructions
 - **DO NOT SUBMIT THE EXAM BEFORE COMPLETING THIS CHALLENGE**
     - You must complete this challenge then submit the exam. We will not look at any code that is committed after you have submitted the exam.
-- Make a new repository
-- Clone this repo and make it private. 
+- Make a new repository in github and make it private
+- Clone this repo 
+- Delete the .git folder in the cloned project
+    - If you are using the terminal/command prompt, you can use the `rmdir` command
+    - Example: `rmdir .git`
+- Reinitialize the project as a git repo with the `git init` command
+- Set the origin of the cloned repo to your that new repo you created in github
 - West Coast Fellows Only: Make sure to invite Tea and Alexis
     - Tea's Github username: ControlAltTea
     - Alexis' Github username: Alex-is-Gonzalez
